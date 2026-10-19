@@ -26,7 +26,6 @@ class Student {
         return total() / 3.0;
     }
 
-    // Method to display details
     void display() {
         System.out.println("Roll Number: " + roll);
         System.out.println("Name: " + name);
